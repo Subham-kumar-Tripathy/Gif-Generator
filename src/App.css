@@ -1,0 +1,10 @@
+.backs{
+    display: flex;
+    flex-direction: column;
+    width:100vw;
+    height:100vh;
+
+    background-image: url('public/images/vecteezy_haunted-house-on-halloween-celebration-concept-spooky-house_31284310.jpg');
+    background-size: cover; 
+    background-position: center;
+}
